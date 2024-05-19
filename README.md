@@ -26,7 +26,7 @@ with multiple Availability Zones using:
 4. SSH Keypair.
 
 ### Terraform
-1. Install Terraform v0.14 on your local machine.
+1. Install Terraform v1.3.7 on your local machine.
 2. AWS Credentials set as environment variables or as shared credentials under /$YOUR_HOME_DIRECTORY/.aws/credentials
 
 
